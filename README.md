@@ -60,7 +60,7 @@ cd simple-taiko-node
 ```
 nano .env
 ```
-1-) İlk Yere Alchemydeki "RPC" Bilgilerimizi giriyoruz.
+1-) SS'teki yerleri rpc bilgilerimizle dolduruyoruz.
 
 ![Ekran görüntüsü 2023-09-29 231647](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/2661a09c-8ddd-41ee-a2a1-6bcffbc378fe)
 
