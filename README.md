@@ -31,7 +31,7 @@ cd simple-taiko-node
 ```
 
 
-# Dosya İsmini Değiştitin.
+# Dosyamızı Ayarlıyoruz.
 
 ```
 cp .env.sample .env
