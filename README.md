@@ -1,4 +1,4 @@
-# Takio-Testnet
+# Taiko-Testnet
 
 ![rzm5azrr](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/97082dcb-8753-4479-abef-496118fcaa54)
 
