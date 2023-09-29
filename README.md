@@ -38,14 +38,14 @@ cp .env.sample .env
 ```
 
 
-klasörün içine girin.
+Klasörün içine girin.
 
 ```
 nano .env
 ```
 
 # Simdi Alchemyden rpc alacağız.
-> ## [İlk Önce Twitteki Adımları Yapıyoruz]([https://scan.mindnetwork.xyz/](https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)
+> ## [BURAYA BASIN]([https://scan.mindnetwork.xyz/](https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)
 
 
 
