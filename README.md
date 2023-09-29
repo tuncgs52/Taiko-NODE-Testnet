@@ -45,7 +45,7 @@ nano .env
 ```
 
 # Simdi Alchemyden rpc alacağız.
-> ## [BURAYA BASIN.](h[ttps://scan.mindnetwork.xyz/](https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)
+> ## [İlk Önce Twitteki Adımları Yapıyoruz]([https://scan.mindnetwork.xyz/](https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)
 
 
 
