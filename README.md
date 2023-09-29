@@ -46,13 +46,16 @@ nano .env
 
 # Simdi Alchemyden rpc alacağız.
 > ## [BURAYA BASIN]([https://scan.mindnetwork.xyz/](https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)https://alchemy.com/?r=Tg4MzUyMTk1NjI3M)
-❗ Hesap oluşturun, Ardından "APPS" Kısmına geliyoruz. 
+
+ Hesap oluşturun, Ardından "APPS" Kısmına geliyoruz. 
 "Create New App" Diyoruz. Aşağıdaki Gibi Sepolia Ağını Seçiyoruz.
+
 ![Ekran görüntüsü 2023-09-29 224039](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/830bb4bf-d97e-4661-9cb5-4396fe76f222)
 
 "Apı Key" basın. Rpc Bilgileri Gözükecek.
 ![Ekran görüntüsü 2023-09-29 224039](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/5ad5041a-37b0-4d1f-a526-4068fb3418eb)
 
 Sunucumuzda Düzenleyeceğimiz Yerlere Gelelim.
+
 
 
