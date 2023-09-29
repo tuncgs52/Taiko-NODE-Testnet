@@ -78,6 +78,7 @@ nano .env
 
 
 2-) "ENABLE_PROVER=false" Burayı "true" Yapıyoruz.
+
 ![Ekran görüntüsü 2023-09-29 232703](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/3c5fe91f-95b5-4a82-bba9-33ce690174f4)
 
 
