@@ -1,6 +1,8 @@
 # Takio-Testnet
 
-![rzm5azrr](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/712a3f97-7bfb-4a1c-b742-bb9cf17f179a)
+![rzm5azrr](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/97082dcb-8753-4479-abef-496118fcaa54)
+
+
 
 # Taiko nedir?
 Taiko, merkezi olmayan, Ethereum eşdeğeri bir ZK-Rollup'tır. 
@@ -43,10 +45,12 @@ cp .env.sample .env
  Hesap oluşturun, Ardından "APPS" Kısmına geliyoruz. 
 "Create New App" Diyoruz. Aşağıdaki Gibi Sepolia Ağını Seçiyoruz. Create App diyoruz ve rpc'yi oluşturuyoruz.
 
-![Ekran görüntüsü 2023-09-29 224039](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/830bb4bf-d97e-4661-9cb5-4396fe76f222)
+![Ekran görüntüsü 2023-09-29 224039](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/6458d157-9e11-45e2-b0e1-2a336162b122)
+
 
 "Apı Key" basın. Rpc Bilgileri Gözükecek.
-![Ekran görüntüsü 2023-09-29 233801](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/fbca28e8-23e9-47c8-b89a-138971c96c15)
+![Ekran görüntüsü 2023-09-29 233801](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/cab50bde-37a1-4c4c-930b-afc6bbb28c59)
+
 
 
 
@@ -62,23 +66,25 @@ nano .env
 ```
 1-) SS'teki yerleri rpc bilgilerimizle dolduruyoruz.
 
-![Ekran görüntüsü 2023-09-29 231647](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/2661a09c-8ddd-41ee-a2a1-6bcffbc378fe)
+![Ekran görüntüsü 2023-09-29 231647](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/da9fed14-331b-4932-b24e-a5cb7b1d6105)
+
 
 "L1_ENDPOINT_HTTP" Yazan Yere SS'teki Linki Kopyalayarak Giriyoruz.
+![Ekran görüntüsü 2023-09-29 231436](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/64800fcf-de86-4997-8cc8-716b0e0dedcd)
 
-![Ekran görüntüsü 2023-09-29 231436](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/e160c67d-d49d-48cb-84b9-f2aa2e11ae6b)
 
 "L1_ENDPOINT_WS" Bu kısmada Alttaki SS Linkini Kopyalayarak Giriyoruz.
 
 ![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/a28b9342-2c34-4a51-80d6-4cfa020a6548)
 
 2-) "ENABLE_PROVER=false" Burayı "true" Yapıyoruz.
+![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/147fe10f-dda7-42ca-93af-aa8d2f575594)
 
-![Ekran görüntüsü 2023-09-29 232703](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/a7c9017b-72e2-494e-b67a-15d6c7f4964f)
 
 3-) En Son deposit ettiğimiz taiko cüzdanın private keyini "L1_PROVER_PRIVATE_KEY=" alanına giriyoruz.
 
-![Ekran görüntüsü 2023-09-29 233033](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/1ceb3e76-9d12-4030-af97-726e8d0607a8)
+![Ekran görüntüsü 2023-09-29 233033](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/e0a312fc-e364-449f-b4ed-84dd2e8f45cc)
+
 
 # Son Olarak Node'yi başlatıyoruz.
 
