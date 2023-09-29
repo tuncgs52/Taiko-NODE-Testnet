@@ -74,11 +74,11 @@ nano .env
 
 
 "L1_ENDPOINT_WS" Bu kısmada Alttaki SS Linkini Kopyalayarak Giriyoruz.
+![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/8f5c0ab3-50b6-4b59-b3c0-0e686026c238)
 
-![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/a28b9342-2c34-4a51-80d6-4cfa020a6548)
 
 2-) "ENABLE_PROVER=false" Burayı "true" Yapıyoruz.
-![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/147fe10f-dda7-42ca-93af-aa8d2f575594)
+![Ekran görüntüsü 2023-09-29 232703](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/3c5fe91f-95b5-4a82-bba9-33ce690174f4)
 
 
 3-) En Son deposit ettiğimiz taiko cüzdanın private keyini "L1_PROVER_PRIVATE_KEY=" alanına giriyoruz.
