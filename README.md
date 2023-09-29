@@ -46,7 +46,8 @@ cp .env.sample .env
 ![Ekran görüntüsü 2023-09-29 224039](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/830bb4bf-d97e-4661-9cb5-4396fe76f222)
 
 "Apı Key" basın. Rpc Bilgileri Gözükecek.
-![Ekran görüntüsü 2023-09-29 224601](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/75a93e9f-6905-42da-ad72-db257943bd8c)
+![Ekran görüntüsü 2023-09-29 233801](https://github.com/tuncgs52/Takio-Testnet/assets/80161670/fbca28e8-23e9-47c8-b89a-138971c96c15)
+
 
 
 # Sunucumuzda Düzenleyeceğimiz Yerlere Gelelim.
