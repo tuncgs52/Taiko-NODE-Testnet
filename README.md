@@ -85,6 +85,7 @@ nano .env
 
 ![Ekran görüntüsü 2023-09-29 233033](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/e0a312fc-e364-449f-b4ed-84dd2e8f45cc)
 
+CTRL X Y ENTER, yapıp kaydedip çıkıyoruz.
 
 # Son Olarak Node'yi başlatıyoruz.
 
