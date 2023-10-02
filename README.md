@@ -7,6 +7,10 @@
 # Taiko nedir?
 Taiko, merkezi olmayan, Ethereum eşdeğeri bir ZK-Rollup'tır. 
 
+# Sistem özellikleri Çok bişey kullanmıyor.
+
+4cpu, 8ram, 160ssd normal bir sunucuda çok rahat çalışabilmekte.
+
 # İlk Önce Gerekli Kütüphaneleri indiriyoruz.
 
 ```
@@ -74,10 +78,12 @@ nano .env
 
 
 "L1_ENDPOINT_WS" Bu kısmada Alttaki SS Linkini Kopyalayarak Giriyoruz.
+
 ![Ekran görüntüsü 2023-09-29 232234](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/8f5c0ab3-50b6-4b59-b3c0-0e686026c238)
 
 
 2-) "ENABLE_PROVER=false" Burayı "true" Yapıyoruz.
+
 ![Ekran görüntüsü 2023-09-29 232703](https://github.com/tuncgs52/Taiko-NODE-Testnet/assets/80161670/3c5fe91f-95b5-4a82-bba9-33ce690174f4)
 
 
